@@ -1,3 +1,9 @@
+@media (max-width: 1285px) {
+  /* section_2  */
+  .sec_2_pic_3 {
+    display: none;
+  }
+}
 @media (max-width: 1030px) {
   /* header */
   header {
@@ -7,9 +13,7 @@
   .section_2 {
     padding: 130px 92px;
   }
-  .sec_2_pic_3 {
-    display: none;
-  }
+
   /* section_3 */
   .section_3 {
     padding: 0 92px 130px;
