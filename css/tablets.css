@@ -1,0 +1,12 @@
+@media (max-width: 650px) {
+  /* header  */
+  header {
+    padding: 6px 14px;
+  }
+  .header_hide {
+    display: none;
+  }
+  .fa-bars {
+    display: block;
+  }
+}

@@ -1,0 +1,26 @@
+@media (max-width: 470px) {
+  /* section_3  */
+  .section_3_div_title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .section_3_text {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .section_3_images {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+}
+@media (max-width: 430px) {
+  /* section_1  */
+  .section_1_title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .section_1_text {
+    font-size: 14px;
+    line-height: 22px;
+  }
+}
